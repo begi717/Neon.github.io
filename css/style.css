@@ -9,7 +9,7 @@ html, body {
 h1 {
   font-family: 'Conv_Gilroy-Medium';
   src: url('fonts/Gilroy-Medium.eot');
-  src: local('☺'), url('fonts/Gilroy-Medium.woff') format('woff'), url('fonts/Gilroy-Medium.ttf') format('truetype'), url('fonts/Gilroy-Medium.svg') format('svg');
+  src: local('☺'), url('fonts/Gilroy-Medium.woff') format('woff'), url('fonts/Gilroy-Medium.ttf') format('truetype') ;
   font-weight: normal;
   font-style: normal;
   color: black;
@@ -17,7 +17,7 @@ h1 {
 h3 {
   font-family: 'Conv_Gilroy-Medium';
   src: url('fonts/Gilroy-Medium.eot');
-  src: local('☺'), url('fonts/Gilroy-Medium.woff') format('woff'), url('fonts/Gilroy-Medium.ttf') format('truetype'), url('fonts/Gilroy-Medium.svg') format('svg');
+  src: local('☺'), url('fonts/Gilroy-Medium.woff') format('woff'), url('fonts/Gilroy-Medium.ttf') format('truetype') ;
   font-weight: normal;
   font-style: normal;
   color: black;
@@ -25,7 +25,7 @@ h3 {
 p {
   font-family: 'Conv_Gilroy-Medium';
   src: url('fonts/Gilroy-Medium.eot');
-  src: local('☺'), url('fonts/Gilroy-Medium.woff') format('woff'), url('fonts/Gilroy-Medium.ttf') format('truetype'), url('fonts/Gilroy-Medium.svg') format('svg');
+  src: local('☺'), url('fonts/Gilroy-Medium.woff') format('woff'), url('fonts/Gilroy-Medium.ttf') format('truetype') ;
   font-weight: normal;
   font-style: normal;
   color: black; 
