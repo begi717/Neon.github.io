@@ -8,24 +8,24 @@ html, body {
 
 h1 {
   font-family: 'Conv_Gilroy-Medium';
-  src: url('fonts/Gilroy-Medium.eot');
-  src: local('☺'), url('fonts/Gilroy-Medium.woff') format('woff'), url('fonts/Gilroy-Medium.ttf') format('truetype'), url('fonts/Gilroy-Medium.svg') format('svg');
+  src: url('fonts/FontsFree-Net-Gilroy2.ttf');
+  src: local('☺'), url('fonts/FontsFree-Net-Gilroy2.ttf) format('ttf') ;
   font-weight: normal;
   font-style: normal;
   color: black;
 }
 h3 {
   font-family: 'Conv_Gilroy-Medium';
-  src: url('fonts/Gilroy-Medium.eot');
-  src: local('☺'), url('fonts/Gilroy-Medium.woff') format('woff'), url('fonts/Gilroy-Medium.ttf') format('truetype'), url('fonts/Gilroy-Medium.svg') format('svg');
+  src: url('fonts/FontsFree-Net-Gilroy2.ttf');
+  src: local('☺'), url('fonts/FontsFree-Net-Gilroy2.ttf') format('ttf') ;
   font-weight: normal;
   font-style: normal;
   color: black;
 }
 p {
   font-family: 'Conv_Gilroy-Medium';
-  src: url('fonts/Gilroy-Medium.eot');
-  src: local('☺'), url('fonts/Gilroy-Medium.woff') format('woff'), url('fonts/Gilroy-Medium.ttf') format('truetype'), url('fonts/Gilroy-Medium.svg') format('svg');
+  src: url('fonts/FontsFree-Net-Gilroy2.ttf');
+  src: local('☺'), url('fonts/FontsFree-Net-Gilroy2.ttf') format('ttf') ;
   font-weight: normal;
   font-style: normal;
   color: black;  
